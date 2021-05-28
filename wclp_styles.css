@@ -1,0 +1,10 @@
+#div_wclp_user_list {
+	height: 400px;
+	overflow: auto;
+	padding: 1em;
+
+}
+
+#div_wclp {
+	transition: opacity 10s;
+}
